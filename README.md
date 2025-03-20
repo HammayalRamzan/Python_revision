@@ -1,4 +1,4 @@
-# 👋 Hello! I’m Hammayl
+# 👋 Hey! I’m Hammayl
 
 I am a passionate learner and aspiring AI expert with a strong focus on Python programming. This repository serves as my dedicated space for revising and honing my skills in Python functions.
 
